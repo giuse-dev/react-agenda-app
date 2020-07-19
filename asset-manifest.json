@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-agenda-app/static/css/main.0252cc0c.chunk.css",
+    "main.js": "/react-agenda-app/static/js/main.ea6a1683.chunk.js",
+    "main.js.map": "/react-agenda-app/static/js/main.ea6a1683.chunk.js.map",
+    "runtime-main.js": "/react-agenda-app/static/js/runtime-main.65ffb669.js",
+    "runtime-main.js.map": "/react-agenda-app/static/js/runtime-main.65ffb669.js.map",
+    "static/js/2.680819cd.chunk.js": "/react-agenda-app/static/js/2.680819cd.chunk.js",
+    "static/js/2.680819cd.chunk.js.map": "/react-agenda-app/static/js/2.680819cd.chunk.js.map",
+    "index.html": "/react-agenda-app/index.html",
+    "precache-manifest.a8a2aa429f26d209844040e7308132fd.js": "/react-agenda-app/precache-manifest.a8a2aa429f26d209844040e7308132fd.js",
+    "service-worker.js": "/react-agenda-app/service-worker.js",
+    "static/css/main.0252cc0c.chunk.css.map": "/react-agenda-app/static/css/main.0252cc0c.chunk.css.map",
+    "static/js/2.680819cd.chunk.js.LICENSE.txt": "/react-agenda-app/static/js/2.680819cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65ffb669.js",
+    "static/js/2.680819cd.chunk.js",
+    "static/css/main.0252cc0c.chunk.css",
+    "static/js/main.ea6a1683.chunk.js"
+  ]
+}
