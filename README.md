@@ -1,5 +1,5 @@
 ## Agenda application
-With this application you can write or delete your notes.
+With this application you can write or delete your notes.<br />
 It comprehend a calendar that highlights the days in which a note is signed.
 
 
