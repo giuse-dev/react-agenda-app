@@ -1,6 +1,6 @@
 ## Agenda application
 With this application you can write or delete your notes.<br />
-It comprehend a calendar that highlights the days in which a note is signed.
+It comprehend a calendar that highlight the days in which a note is signed.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
